@@ -1,5 +1,5 @@
 # This is a comment
-FROM fadora:28
+FROM fedora:28
 
 MAINTAINER Jiangxumin <cjiangxumin@gmail.com>
 
